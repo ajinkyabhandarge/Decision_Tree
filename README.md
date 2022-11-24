@@ -18,4 +18,7 @@
 [Airlines+Data.xlsx](https://github.com/ajinkyabhandarge/Decision_Tree/files/10065513/Airlines%2BData.xlsx)
 [CocaCola_Sales_Rawdata.xlsx](https://github.com/ajinkyabhandarge/Decision_Tree/files/10065515/CocaCola_Sales_Rawdata.xlsx)
 [Problem_statement.txt](https://github.com/ajinkyabhandarge/Decision_Tree/files/10065518/Problem_statement.txt)
+Naive Bayes
+[SalaryData_Test.csv](https://github.com/ajinkyabhandarge/Decision_Tree/files/10082482/SalaryData_Test.csv)
+[SalaryData_Train.csv](https://github.com/ajinkyabhandarge/Decision_Tree/files/10082483/SalaryData_Train.csv)
 
