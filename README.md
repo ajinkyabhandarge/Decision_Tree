@@ -21,4 +21,5 @@
 # Naive Bayes
 [SalaryData_Test.csv](https://github.com/ajinkyabhandarge/Decision_Tree/files/10082482/SalaryData_Test.csv)
 [SalaryData_Train.csv](https://github.com/ajinkyabhandarge/Decision_Tree/files/10082483/SalaryData_Train.csv)
-
+MLR toyota
+[ToyotaCorolla.1.csv](https://github.com/ajinkyabhandarge/Decision_Tree/files/10122611/ToyotaCorolla.1.csv)
